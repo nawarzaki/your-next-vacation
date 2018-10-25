@@ -3,7 +3,7 @@
 
 
 .background {
-  background: url(../images/background.jpg) no-repeat center top;
+  background: url(../images/wonderful.jpg) no-repeat center top;
   background-size: cover;
 }
 
@@ -63,13 +63,13 @@ header {
 }
 
 #navbar nav a.selected {
-background: linear-gradient(to bottom, #333300 0%, #ffffcc 100%);
+background: linear-gradient(to right top, #4d6459, #558878, #55af9e, #48d6cb, #03ffff);
 color: white;
 }
 
 #navbar nav a:hover {
   color: white;
-  background: black;
+  background: linear-gradient(to right top, #4d6459, #558878, #55af9e, #48d6cb, #03ffff);;
   transition: all 400ms;
 }
 
@@ -99,7 +99,7 @@ color: white;
 section {
   padding: 10px 0px 10px 0px;
   margin-bottom: 180px;
-  background: linear-gradient(to right top, #95abb0, #afbdc4, #cad0d7, #e3e4e8, #f9f9f9);
+  background: rgba(134, 131, 131, 0.185);
   border: 1px solid #95a3a6;
   box-shadow: 0 5px 8px black;
   border-radius: 10px; 
@@ -114,7 +114,7 @@ section {
   text-align: center;
   text-decoration: none;
   font: 1em "Trebuchet ms", Arial, sans-serif;
-  background: linear-gradient(to bottom, #333300 0%, #ffffcc 100%);
+  background: linear-gradient(to right top, #fd6605, #fe7201, #fe7d00, #ff8800, #ff9203);
 }
 
 .shadow form a:hover {
